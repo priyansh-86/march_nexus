@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   keywords: ["Nexus Consumer Care", "detergent manufacturer", "cleaning products", "private label", "contract manufacturing", "liquid detergent", "floor cleaner", "India"],
   authors: [{ name: "Nexus Consumer Care" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "\public\images\nexus\logo.png",
   },
   openGraph: {
     title: "Nexus Consumer Care | Quality You Trust. Scale You Need.",
